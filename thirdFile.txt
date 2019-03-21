@@ -1,1 +1,3 @@
 Cancel the master 
+The first line
+line 2
